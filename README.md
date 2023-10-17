@@ -4,7 +4,7 @@ This repository is NOT the full version NiloToonURP.
 This repository only contains a very simple and short URP toon shader example, only for tutorial purposes, it is under MIT license so you can do whatever you want with the code.
 If you want to keep the current tutorial shader, please fork it or download a copy now since it may be removed in the future. 
 -----------------------------------------
-# NiloToonURP(full version)'s rendering
+## NiloToonURP(full version)'s rendering
 
 ![screenshot](https://i.imgur.com/lfu2wZd.jpg)
 shader ON
